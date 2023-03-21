@@ -1,3 +1,5 @@
+#Amazon.ipynb是我和卡納的主題用到關鍵字分析
+#microsoft_document是寫給你們的用到文章重點提取
 
 #### 流程
 ##### 1.在Azure上創建認知服務
