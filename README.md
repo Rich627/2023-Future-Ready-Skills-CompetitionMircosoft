@@ -1,11 +1,10 @@
-## Amazon.ipynb是我和卡納的主題用到關鍵字分析
-## microsoft_document.ipynb是寫給你們的用到文章重點提取
+We aim to enhance the shopping experience for visually impaired individuals. Our solution incorporates the following components:
 
-#### 流程
-##### 1.在Azure上創建認知服務
-##### 2.選擇語言服務並設定資源群組, 名稱, 定價層
-##### 3.進入資源群組找endpoint和key
+- Device cameras for image capture
+- Azure object detection for identifying objects
+- Azure text-to-speech for converting text to audio
+- Azure form recognizer for extracting information from forms
 
-看不懂我有放圖片在image
+To bring this solution to life, we are developing a dedicated app. Our trained model achieves a precision rate of 60% and a recall rate of 90.1%.
 
-官方文件教學:https://learn.microsoft.com/zh-tw/python/api/overview/azure/ai-textanalytics-readme?view=azure-python-preview&preserve-view=true
+[Proposal.pdf](https://github.com/Rich627/SQL_Project/blob/main/%E8%B3%87%E6%96%99%E5%BA%AB%E5%B0%88%E6%A1%88.pdf)
